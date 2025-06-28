@@ -11,6 +11,8 @@ public class MyOptibotTestApplication {
 
 
     public static void main(String[] args) {
+
+
         SpringApplication.run(MyOptibotTestApplication.class, args);
     }
 
