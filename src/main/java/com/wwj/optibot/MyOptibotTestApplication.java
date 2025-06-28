@@ -14,4 +14,6 @@ public class MyOptibotTestApplication {
         SpringApplication.run(MyOptibotTestApplication.class, args);
     }
 
+    // 生成测试代码
+
 }
