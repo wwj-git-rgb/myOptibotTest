@@ -9,8 +9,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MyOptibotTestApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MyOptibotTestApplication.class, args);
-	}
+
+    public static void main(String[] args) {
+        SpringApplication.run(MyOptibotTestApplication.class, args);
+    }
 
 }
