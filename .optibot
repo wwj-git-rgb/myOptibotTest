@@ -3,7 +3,7 @@
     "auto": true,
     "exclude": [],
     "include": [],
-    "autoApprove": false,
+    "autoApprove": true,
     "codeSuggestions": true,
     "codeSuggestionsSkipFiles": []
   },
@@ -12,7 +12,7 @@
   },
   "summary": {
     "auto": true,
-    "level": "basic"
+    "level": "detailed"
   },
-  "enableCIFixer": false
+  "enableCIFixer": true
 }
